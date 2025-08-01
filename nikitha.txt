@@ -1,2 +1,3 @@
 print("Hello,World")
 hello world
+num=int(input("enter a number:"))
